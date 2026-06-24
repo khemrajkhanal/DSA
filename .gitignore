@@ -1,0 +1,8 @@
+# Ignore Windows C executables
+*.exe
+
+# Ignore Mac/Linux C executables (if applicable)
+*.out
+
+# Ignore build directories (if VS Code creates them)
+build/
